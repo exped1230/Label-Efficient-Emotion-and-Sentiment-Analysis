@@ -1,11 +1,10 @@
 # 📖 ACM MM Tutorial on Label Efficient Emotion and Sentiment Analysis
 
-Welcome to our tutorial **Label Efficient Emotion and Sentiment Analysis (LeESA) ** presented at the [ACM MultiMedia conference 2024](https://2024.acmmm.org), in Melbourne, Australia.
+Welcome to our tutorial **Label Efficient Emotion and Sentiment Analysis** (LeESA) presented at the [ACM MultiMedia conference 2024](https://2024.acmmm.org), in Melbourne, Australia.
 
 
 ## 💻 Material Availability: 
-[Slides](./ppts), [Videos](./videos), [Papers](./papers) are available.
-
+Slides, Videos, Papers are available [here](https://pan.baidu.com/s/1mGTCrQIjWUBIpXeA0sAm8A?pwd=u5qd), with code u5qd.
 
 ## 🔲 LeESA Outline:
 
