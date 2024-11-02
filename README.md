@@ -17,6 +17,8 @@ Slides, Videos, Papers are available [here](https://pan.baidu.com/s/1mGTCrQIjWUB
 
 **Guoli Jia**: [Publication List](https://scholar.google.cz/citations?user=A6V0JDAAAAAJ&hl=zh-CN), [Personal Website](https://exped1230.github.io), [Email](exped1230@gmail.com)
 
+**Zhicheng Zhang**: [Publication List](https://scholar.google.cz/citations?hl=zh-CN&user=NcTLUzIAAAAJ), [Personal Website](https://zzcheng.top), [Email](gloryzzc6@sina.com)
+
 **Xiaopeng Hong**: [Publication List](https://scholar.google.cz/citations?user=x3X-qysAAAAJ&hl=zh-CN&oi=ao), [Personal Website](https://hongxiaopeng.com), [Email](hongxiaopeng@hit.edu.cn)
 
 **Yanyan Zhao**: [Publication List](https://scholar.google.cz/citations?hl=zh-CN&user=mEdfAYoAAAAJ), [Personal Website](http://homepage.hit.edu.cn/yanyan), [Email](yyzhao1983@126.com)
